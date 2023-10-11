@@ -15,6 +15,7 @@ body {
     font-size: 18px;
     line-height: 2em;
     overflow-x: hidden;
+    background-color: #d4f1ff;
 }
 
 a {
@@ -64,7 +65,7 @@ h2, p { color: #666666; }
     color: white;
 }
 
-.tm-bg-gray { background-color: #F4F4F4; }
+.tm-bg-gray { background-color: #c0e7fa; }
 .tm-text-primary { color: #3399CC; }
 .tm-text-secondary { color: #3CAFAF; }
 
@@ -275,7 +276,7 @@ h2, p { color: #666666; }
 }
 
 .tm-paging-link {
-    background-color: #F4F4F4;
+    background-color: #d4f1ff; 
     margin-right: 12px;
     font-size: 1.5rem;
     width: 60px;
@@ -287,7 +288,7 @@ h2, p { color: #666666; }
 
 .nav-item.active > .tm-paging-link,
 .nav-item:hover > .tm-paging-link {
-    background-color: #CCC;
+    background-color: #c0e7fa ;
     color: #666666;
 }
 
@@ -315,7 +316,7 @@ h2, p { color: #666666; }
 .tm-share-box-title { font-size: 1.4rem; }
 
 .tm-bg-white {
-    background-color: white;
+    background-color: rgb(212, 241, 255);
     border: 1px solid #CDCECF;
     border-radius: 5px;
 }
